@@ -1,0 +1,16 @@
+Remove all references to
+
+
+PGR_NAME_NR
+
+
+SYSTEM_PFAD_FFMPEG
+SYSTEM_PFAD_VLC
+SYSTEM_PFAD_FLVSTREAMER
+
+
+
+remove functions as in remove-functions.go
+
+
+trace and remove ProgramArguments
