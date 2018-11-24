@@ -13,7 +13,7 @@ const (
 	rSD
 )
 
-// geo for airing
+// geo for viewing
 type tAir int
 const (
 	gGE tAir = iota		// Germany
@@ -23,7 +23,7 @@ const (
 	gWO						// world
 )
 
-// single film data
+// single movie data
 type tMov struct {
 	resol		int			// resolution
 	geo		int			// geo tag
@@ -68,7 +68,8 @@ public static final int MAX_ELEM = 21;
 public static final int FILM_NEU = 21;
 
 
-// film listing
+//TODO see if this is needed or becomes a slice later...
+// movie listing
 type tList struct {
 
 
