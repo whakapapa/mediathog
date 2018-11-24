@@ -8,9 +8,9 @@ const setNoBackup = 3
 // movie resolution enum
 type tRes int
 const (
-	rStd tRes = iota
-	rHD
-	rSD
+	rStd tRes = iota		// standard
+	rHD						// HD
+	rSD						// SD
 )
 
 // geo for viewing
@@ -25,9 +25,8 @@ const (
 
 // single movie data
 type tMov struct {
-	resol		int			// resolution
-	geo		int			// geo tag
-
+	resol		tRes			// resolution
+	geo		tAir			// geo tag
 }
 
 //TODO java class def - incomplete - see DatenFilm (repl tMov)
@@ -41,6 +40,10 @@ public static final String GEO_CH = "CH";
 public static final String GEO_EU = "EU";
 public static final String GEO_WELT = "WELT";
 //
+
+
+
+
 public static final int FILM_NR = 0; // wird vor dem Speichern gelöscht!
 public static final int FILM_SENDER = 1;
 public static final int FILM_THEMA = 2;
