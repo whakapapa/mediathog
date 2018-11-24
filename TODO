@@ -5,4 +5,7 @@ List all duties
 rebuild classes first and group properly into new tree
 	files under "config"
 
-TEST
+	DatenFilm
+	arrayFilms
+	listeFilmeHistory
+	
