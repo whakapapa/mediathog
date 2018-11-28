@@ -41,12 +41,12 @@ public class UpdateNotificationPanel extends JPanel {
 		"[grow]"));
 
 		//---- label1 ----
-		label1.setText("Eine neue Version von MediathekView ist verf\u00fcgbar!");
+		label1.setText("Eine neue Version von Mediathog ist verf\u00fcgbar!");
 		label1.setFont(label1.getFont().deriveFont(label1.getFont().getStyle() | Font.BOLD, label1.getFont().getSize() + 5f));
 		add(label1, "cell 1 0,aligny bottom,growy 0");
 
 		//---- lblAppIcon ----
-		lblAppIcon.setIcon(new ImageIcon("/Users/christianfranzke/development/IntelliJ Projekte/MediathekView/src/main/resources/mediathek/res/mediatheg-s.png"));
+		lblAppIcon.setIcon(new ImageIcon("/Users/christianfranzke/development/IntelliJ Projekte/Mediathog/src/main/resources/mediathek/res/mediatheg-s.png"));
 		add(lblAppIcon, "cell 0 0 1 2");
 
 		//---- lblReleaseInfo ----

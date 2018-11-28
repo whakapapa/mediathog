@@ -41,7 +41,7 @@ public class UpdateNotificationDialog extends StandardCloseDialog {
 	}
 
 	private void setupDialogInformation() {
-		String label = "MediathekView " + programInformation.getVersion() + " ist verfügbar - "
+		String label = "Mediathog " + programInformation.getVersion() + " ist verfügbar - "
 		+ "Sie haben Version " + setVers;
 		panel.getReleaseInfoLabel().setText(label);
 

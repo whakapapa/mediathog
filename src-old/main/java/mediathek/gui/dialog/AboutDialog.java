@@ -42,7 +42,7 @@ public class AboutDialog extends JDialog {
 		lblVersion.setText(strVersion);
 	}
 
-	
+
 	private void setupJavaInformation() {
 		lblJavaVersion.setText(System.getProperty("java.version"));
 
@@ -87,7 +87,7 @@ public class AboutDialog extends JDialog {
 		JLabel lblProgramIcon = new JLabel();
 		lblProgramIcon.setIcon(new ImageIcon(AboutDialog.class.getResource("/mediathek/res/mediatheg-l.png")));
 
-		JLabel lblProgramName = new JLabel("MediathekView");
+		JLabel lblProgramName = new JLabel("Mediathog");
 		lblProgramName.setFont(new Font("Lucida Grande", Font.BOLD, 24));
 
 		Color greyColor = new Color(159, 159, 159);

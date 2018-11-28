@@ -20,7 +20,7 @@ import java.io.File;
 * Exports the current film list to JSON file.
 */
 public class FilmListExportAction extends AbstractAction {
-	private final static String TITLE = "MediathekView";
+	private final static String TITLE = "Mediathog";
 	private final static String HEADER = "Export der Filmliste";
 	private final MediathekGui gui;
 

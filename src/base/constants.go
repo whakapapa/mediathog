@@ -3,7 +3,7 @@ package base
 // keep all the constants used globally
 
 // program name and version
-const setProg = "Mediatheg"
+const setProg = "Mediathog"
 const setVers = "0.7"
 
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Mediathek>
+<Mediathog>
 
 	<Programmset>
 		<Name>Linux Speichern</Name>
@@ -53,4 +53,4 @@
 		<Programmschalter>%f --play-and-exit</Programmschalter>
 	</Programm>
 
-</Mediathek>
+</Mediathog>

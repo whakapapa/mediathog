@@ -1,7 +1,7 @@
 
 Hiermit können die Standardprogramme zum "Ansehen" und "Aufzeichnen"
 der Filme eingetragen werden. Werden die Pfade nicht automatisch erkannt,
-kann man sie auch per Hand auswählen. 
+kann man sie auch per Hand auswählen.
 
 Der Zielpfad gibt an, wo Filme gespeichert werden sollen.
 
@@ -26,7 +26,7 @@ Die Programme können über die Paketverwaltung eingespielt werden.
 
 
 Windows, OS X:
-Die Programme "flvstreamer" und "ffmpeg" sind bereits in MediathekView
+Die Programme "flvstreamer" und "ffmpeg" sind bereits in Mediathog
 integriert. Es muss bloss noch "VLC" aus dem Internet geladen werden:
 
 

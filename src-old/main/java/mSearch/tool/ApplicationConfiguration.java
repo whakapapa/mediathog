@@ -132,7 +132,7 @@ public class ApplicationConfiguration {
 
 	private void createDefaultConfigSettings() {
 		try {
-			config.setProperty(APPLICATION_USER_AGENT, "MediathekView");
+			config.setProperty(APPLICATION_USER_AGENT, "Mediathog");
 			config.setProperty(GEO_REPORT, true);
 			config.setProperty(GEO_LOCATION, DatenFilm.GEO_DE);
 

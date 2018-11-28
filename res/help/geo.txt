@@ -5,7 +5,7 @@ kann man hier seinen Standort angeben.
 
 Der Download geogeblockter Sendungen
 bricht im Ausland sofort ab (Download
-"fehlerhaft"). MediathekView kennt nicht alle
+"fehlerhaft"). Mediathog kennt nicht alle
 Muster für geogeblockte Sendungen. Ob ein
 fehlerhafter Download auf Geoblocking
 zurückzuführen ist, zeigt sich beim Klick auf

@@ -19,9 +19,9 @@ public class BackgroundTaskAlert {
 	private void createBackgroundTaskAlert() {
 		Platform.runLater(() -> {
 			Alert alert = new Alert(Alert.AlertType.INFORMATION);
-			alert.setTitle("MediathekView");
+			alert.setTitle("Mediathog");
 			alert.setHeaderText("Abschluss der Hintergrund-Tasks");
-			alert.setContentText("MediathekView muss auf den Abschluss der laufenden Hintergrund-Tasks warten.\n" +
+			alert.setContentText("Mediathog muss auf den Abschluss der laufenden Hintergrund-Tasks warten.\n" +
 			"Dies kann einige Sekunden dauern");
 			alert.initModality(Modality.APPLICATION_MODAL);
 			alert.getButtonTypes().clear();

@@ -11,7 +11,7 @@ add( new FormContainer( "javax.swing.JPanel", new FormLayoutManager( class net.m
 name: "this"
 add( new FormComponent( "javax.swing.JLabel" ) {
 name: "label1"
-"text": "Eine neue Version von MediathekView ist verfügbar!"
+"text": "Eine neue Version von Mediathog ist verfügbar!"
 "font": new com.jformdesigner.model.SwingDerivedFont( null, 1, 5, false )
 auxiliary() {
 "JavaCodeGenerator.variableLocal": true
@@ -21,7 +21,7 @@ auxiliary() {
 } )
 add( new FormComponent( "javax.swing.JLabel" ) {
 name: "lblAppIcon"
-"icon": new com.jformdesigner.model.SwingIcon( 1, "/Users/christianfranzke/development/IntelliJ Projekte/MediathekView/src/main/resources/mediathek/res/mediatheg-s.png" )
+"icon": new com.jformdesigner.model.SwingIcon( 1, "/Users/christianfranzke/development/IntelliJ Projekte/Mediathog/src/main/resources/mediathek/res/mediatheg-s.png" )
 auxiliary() {
 "JavaCodeGenerator.variableLocal": true
 }

@@ -186,7 +186,7 @@ public class PanelEinstellungen extends PanelVorlage {
 	}
 
 	private void cbxIconPackagesItemStateChanged(ItemEvent evt) {
-		MVMessageDialog.showMessageDialog(this, "Sie müssen die Applikation neu starten damit die Icons genutzt werden können.", "MediathekView", JOptionPane.WARNING_MESSAGE);
+		MVMessageDialog.showMessageDialog(this, "Sie müssen die Applikation neu starten damit die Icons genutzt werden können.", "Mediathog", JOptionPane.WARNING_MESSAGE);
 		String iconName = jComboBoxIcons.getModel().getElementAt(jComboBoxIcons.getSelectedIndex());
 		if (iconName.equals(ICONSET_STANDARD)) {
 			MVConfig.add(MVConfig.Configs.SYSTEM_ICON_STANDARD, Boolean.TRUE.toString());

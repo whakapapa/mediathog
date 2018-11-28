@@ -5,7 +5,7 @@ import java.util.concurrent.TimeUnit;
 public class Const {
 
 	@Deprecated
-	// MediathekView URLs
+	// Mediathog URLs
 
 
 	public static final String DREISAT = "3Sat";

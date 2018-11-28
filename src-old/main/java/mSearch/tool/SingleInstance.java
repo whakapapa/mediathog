@@ -36,7 +36,7 @@ final public class SingleInstance {
 	public boolean isAppAlreadyActive() {
 		try {
 			//store lock in temp directory, will not survive reboot
-			final File file = new File(System.getProperty("java.io.tmpdir"), "MediathekView.lock");
+			final File file = new File(System.getProperty("java.io.tmpdir"), "Mediathog.lock");
 			channel = new RandomAccessFile(file, "rw").getChannel();
 
 			lock = channel.tryLock();

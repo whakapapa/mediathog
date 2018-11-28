@@ -50,7 +50,7 @@ public class Main {
 	private static final String LOG_TEXT_PROXY_AUTHENTICATION_NOT_CONFIGURED = "Proxy Authentication: not configured";
 	private static final String LOG_TEXT_PROXY_PASSWORD_NOT_SET = "Proxy Authentication: Password is not set";
 	private static final String LOG_TEXT_PROXY_AUTHENTICATION_CANNOT_ACCESS_PROXY_USER_PROXY_PW = "Proxy Authentication: cannot access proxyUser / proxyPassword";
-	private static final String LOG_TEXT_MEDIATHEK_VIEW_IS_ALREADY_RUNNING = "MediathekView wird bereits ausgeführt!";
+	private static final String LOG_TEXT_MEDIATHEK_VIEW_IS_ALREADY_RUNNING = "Mediathog wird bereits ausgeführt!";
 	private static final String X11_AWT_APP_CLASS_NAME = "awtAppClassName";
 
 	private static final Logger logger = LogManager.getLogger(Main.class);
@@ -61,7 +61,7 @@ public class Main {
 	* Tests if javafx is in the classpath by loading a well known class.
 	*/
 	private static void checkForJavaFX() {
-		final String message = "MediathekView benötigt ein installiertes JavaFX.";
+		final String message = "Mediathog benötigt ein installiertes JavaFX.";
 
 		try {
 			Class.forName(JAVAFX_CLASSNAME_APPLICATION_PLATFORM);
@@ -145,7 +145,7 @@ public class Main {
 
 					/*
 					* Aufruf:
-					* java -jar Mediathek [Pfad zur Konfigdatei, sonst homeverzeichnis] [Schalter]
+					* java -jar Mediathog [Pfad zur Konfigdatei, sonst homeverzeichnis] [Schalter]
 					*
 					* Programmschalter:
 					*
@@ -243,7 +243,7 @@ public class Main {
 								*/
 								if (GraphicsEnvironment.isHeadless() && (aState == StartupMode.GUI)) {
 									logger.warn("Headless environment detected but -auto was not specified.");
-									System.err.println("MediathekView wurde nicht als Kommandozeilenprogramm gestartet.");
+									System.err.println("Mediathog wurde nicht als Kommandozeilenprogramm gestartet.");
 									System.err.println("Startmodus wurde auf -auto geändert.");
 									System.err.println();
 									return StartupMode.AUTO;

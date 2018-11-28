@@ -78,7 +78,7 @@ public class CreateProtocolFileAction extends AbstractAction {
 
 	private void success() {
 		Alert alert = new Alert(Alert.AlertType.INFORMATION);
-		alert.setTitle("MediathekView");
+		alert.setTitle("Mediathog");
 		alert.setHeaderText(HEADER);
 		alert.setContentText("Protokolldatei wurde erfolgreich angelegt.");
 		alert.initModality(Modality.APPLICATION_MODAL);
@@ -87,7 +87,7 @@ public class CreateProtocolFileAction extends AbstractAction {
 
 	private void error() {
 		Alert alert = new Alert(Alert.AlertType.ERROR);
-		alert.setTitle("MediathekView");
+		alert.setTitle("Mediathog");
 		alert.setHeaderText(HEADER);
 		alert.setContentText("Protokolldatei konnte nicht geschrieben werden!");
 		alert.initModality(Modality.APPLICATION_MODAL);
