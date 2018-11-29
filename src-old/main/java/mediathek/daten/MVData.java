@@ -1,5 +1,5 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.tool.GermanStringSorter;
 

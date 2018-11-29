@@ -1,9 +1,9 @@
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
-import mediathek.config.Daten;
-import mediathek.gui.dialog.DialogLeer;
-import mediathek.gui.dialogEinstellungen.PanelBlacklist;
-import mediathek.res.GetIcon;
+import mediathog.config.Daten;
+import mediathog.gui.dialog.DialogLeer;
+import mediathog.gui.dialogEinstellungen.PanelBlacklist;
+import mediathog.res.GetIcon;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

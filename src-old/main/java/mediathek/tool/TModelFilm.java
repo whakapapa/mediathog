@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.daten.DatenFilm;
 import mSearch.tool.Datum;

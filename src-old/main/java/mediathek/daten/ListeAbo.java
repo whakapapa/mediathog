@@ -1,15 +1,15 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.daten.DatenFilm;
 import mSearch.daten.tList;
 import mSearch.tool.*;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.gui.dialog.DialogEditAbo;
-import mediathek.tool.Filter;
-import mediathek.tool.MVMessageDialog;
-import mediathek.tool.TModelAbo;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.gui.dialog.DialogEditAbo;
+import mediathog.tool.Filter;
+import mediathog.tool.MVMessageDialog;
+import mediathog.tool.TModelAbo;
 
 import javax.swing.*;
 import java.text.ParseException;

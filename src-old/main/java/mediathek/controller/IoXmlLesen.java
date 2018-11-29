@@ -1,14 +1,14 @@
 
-package mediathek.controller;
+package mediathog.controller;
 
 import mSearch.filmlisten.DatenFilmlisteUrl;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
 import mSearch.tool.ReplaceList;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.daten.*;
-import mediathek.filmlisten.FilmeLaden;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.daten.*;
+import mediathog.filmlisten.FilmeLaden;
 import org.apache.commons.lang3.tuple.ImmutableTriple;
 
 import javax.xml.stream.XMLInputFactory;

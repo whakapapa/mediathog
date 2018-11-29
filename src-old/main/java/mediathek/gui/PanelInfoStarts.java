@@ -1,10 +1,10 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
 import mSearch.daten.DatenFilm;
-import mediathek.config.Daten;
-import mediathek.daten.DatenDownload;
-import mediathek.tool.TModel;
+import mediathog.config.Daten;
+import mediathog.daten.DatenDownload;
+import mediathog.tool.TModel;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

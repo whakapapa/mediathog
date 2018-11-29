@@ -1,12 +1,12 @@
 
 
 
-package mediathek.update;
+package mediathog.update;
 
-import mediathek.config.Konstanten;
-import mediathek.gui.HyperlinkButton;
-import mediathek.gui.actions.UrlHyperlinkAction;
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.config.Konstanten;
+import mediathog.gui.HyperlinkButton;
+import mediathog.gui.actions.UrlHyperlinkAction;
+import mediathog.tool.EscapeKeyHandler;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

@@ -1,15 +1,15 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
-import mediathek.config.MVConfig;
+import mediathog.config.MVConfig;
 import mSearch.tool.Listener;
 import java.awt.Desktop;
 import java.awt.Frame;
 import java.io.File;
 import javax.swing.JOptionPane;
 import mSearch.tool.Log;
-import mediathek.gui.GuiDownloads;
-import mediathek.gui.dialog.DialogProgrammOrdnerOeffnen;
+import mediathog.gui.GuiDownloads;
+import mediathog.gui.dialog.DialogProgrammOrdnerOeffnen;
 
 public class OpenPlayerAction {
 

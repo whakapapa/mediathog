@@ -1,13 +1,13 @@
-package mediathek.javafx.filmlist;
+package mediathog.javafx.filmlist;
 
 import javafx.application.Platform;
 import javafx.scene.layout.HBox;
 import mSearch.filmeSuchen.ListenerFilmeLaden;
 import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
-import mediathek.config.Daten;
-import mediathek.gui.messages.TimerEvent;
-import mediathek.javafx.CenteredBorderPane;
-import mediathek.javafx.VerticalSeparator;
+import mediathog.config.Daten;
+import mediathog.gui.messages.TimerEvent;
+import mediathog.javafx.CenteredBorderPane;
+import mediathog.javafx.VerticalSeparator;
 import net.engio.mbassy.listener.Handler;
 
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package mediathek.javafx.tool;
+package mediathog.javafx.tool;
 
 import javafx.scene.control.Label;
 

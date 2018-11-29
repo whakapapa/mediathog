@@ -1,14 +1,14 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.application.Platform;
 import javafx.beans.property.ObjectProperty;
-import mediathek.MediathekGui;
-import mediathek.config.Daten;
-import mediathek.daten.DatenAbo;
-import mediathek.daten.DatenDownload;
-import mediathek.gui.messages.TimerEvent;
-import mediathek.gui.messages.UpdateStatusBarLeftDisplayEvent;
-import mediathek.javafx.tool.ComputedLabel;
+import mediathog.MediathekGui;
+import mediathog.config.Daten;
+import mediathog.daten.DatenAbo;
+import mediathog.daten.DatenDownload;
+import mediathog.gui.messages.TimerEvent;
+import mediathog.gui.messages.UpdateStatusBarLeftDisplayEvent;
+import mediathog.javafx.tool.ComputedLabel;
 import net.engio.mbassy.listener.Handler;
 
 public class FilmListInformationLabel extends ComputedLabel {

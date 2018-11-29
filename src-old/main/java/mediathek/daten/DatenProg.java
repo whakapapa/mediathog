@@ -1,9 +1,9 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
-import mediathek.config.Daten;
+import mediathog.config.Daten;
 import static mediathek.controller.starter.RuntimeExec.TRENNER_PROG_ARRAY;
-import mediathek.tool.GuiFunktionenProgramme;
+import mediathog.tool.GuiFunktionenProgramme;
 
 public class DatenProg extends MVData<DatenProg> {
 

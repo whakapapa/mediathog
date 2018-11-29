@@ -1,11 +1,11 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import mSearch.daten.DatenFilm;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.MVInfoFile;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.MVInfoFile;
 
 import javax.swing.*;
 

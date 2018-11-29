@@ -658,7 +658,7 @@ public class tList extends ArrayList<DatenFilm> {
 //TODO from here old java
 //TODO strip this file down
 
-package mediathek.config;
+package mediathog.config;
 
 import com.jidesoft.utils.SystemInfo;
 import javafx.application.Platform;
@@ -671,23 +671,23 @@ import mSearch.daten.tList;
 import mSearch.filmlisten.writer.FilmListWriter;
 import mSearch.tool.Listener;
 import mSearch.tool.ReplaceList;
-import mediathek.MediathekGui;
-import mediathek.controller.IoXmlLesen;
-import mediathek.controller.IoXmlSchreiben;
-import mediathek.controller.MVUsedUrls;
-import mediathek.controller.starter.StarterClass;
-import mediathek.daten.*;
-import mediathek.filmlisten.FilmeLaden;
-import mediathek.gui.actions.FilmListWriteWorkerTask;
-import mediathek.gui.dialog.DialogMediaDB;
-import mediathek.gui.filmInformation.InfoDialog;
-import mediathek.gui.messages.BaseEvent;
-import mediathek.gui.messages.TimerEvent;
-import mediathek.javafx.CenteredBorderPane;
-import mediathek.javafx.VerticalSeparator;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVFont;
-import mediathek.tool.MVMessageDialog;
+import mediathog.MediathekGui;
+import mediathog.controller.IoXmlLesen;
+import mediathog.controller.IoXmlSchreiben;
+import mediathog.controller.MVUsedUrls;
+import mediathog.controller.starter.StarterClass;
+import mediathog.daten.*;
+import mediathog.filmlisten.FilmeLaden;
+import mediathog.gui.actions.FilmListWriteWorkerTask;
+import mediathog.gui.dialog.DialogMediaDB;
+import mediathog.gui.filmInformation.InfoDialog;
+import mediathog.gui.messages.BaseEvent;
+import mediathog.gui.messages.TimerEvent;
+import mediathog.javafx.CenteredBorderPane;
+import mediathog.javafx.VerticalSeparator;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVFont;
+import mediathog.tool.MVMessageDialog;
 import net.engio.mbassy.bus.MBassador;
 import net.engio.mbassy.bus.config.BusConfiguration;
 import net.engio.mbassy.bus.config.Feature;

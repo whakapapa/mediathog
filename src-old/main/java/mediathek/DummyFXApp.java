@@ -1,4 +1,4 @@
-package mediathek;
+package mediathog;
 
 import javafx.application.Application;
 import javafx.stage.Stage;

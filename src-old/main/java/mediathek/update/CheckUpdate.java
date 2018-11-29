@@ -1,13 +1,13 @@
 
-package mediathek.update;
+package mediathog.update;
 
-import mediathek.MediathekGui;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenPset;
-import mediathek.daten.ListePset;
-import mediathek.gui.dialog.DialogNewSet;
-import mediathek.tool.GuiFunktionenProgramme;
+import mediathog.MediathekGui;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenPset;
+import mediathog.daten.ListePset;
+import mediathog.gui.dialog.DialogNewSet;
+import mediathog.tool.GuiFunktionenProgramme;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

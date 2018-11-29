@@ -1,14 +1,14 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import mSearch.daten.DatenFilm;
-import mediathek.config.Icons;
-import mediathek.controller.starter.Start;
-import mediathek.daten.DatenDownload;
-import mediathek.daten.DatenProg;
-import mediathek.file.GetFile;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Icons;
+import mediathog.controller.starter.Start;
+import mediathog.daten.DatenDownload;
+import mediathog.daten.DatenProg;
+import mediathog.file.GetFile;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.MVMessageDialog;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

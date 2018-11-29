@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.application.Platform;
 import javafx.scene.control.Alert;

@@ -1,8 +1,8 @@
 
-package mediathek.tool.listener;
+package mediathog.tool.listener;
 
-import mediathek.config.MVConfig;
-import mediathek.tool.table.MVTable;
+import mediathog.config.MVConfig;
+import mediathog.tool.table.MVTable;
 
 import javax.swing.*;
 import java.awt.event.MouseAdapter;

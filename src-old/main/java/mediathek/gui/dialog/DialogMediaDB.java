@@ -1,16 +1,16 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import mSearch.tool.FilenameUtils;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenMediaDB;
-import mediathek.file.GetFile;
-import mediathek.tool.*;
-import mediathek.tool.table.MVMediaDbTable;
-import mediathek.tool.table.MVTable;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenMediaDB;
+import mediathog.file.GetFile;
+import mediathog.tool.*;
+import mediathog.tool.table.MVMediaDbTable;
+import mediathog.tool.table.MVTable;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

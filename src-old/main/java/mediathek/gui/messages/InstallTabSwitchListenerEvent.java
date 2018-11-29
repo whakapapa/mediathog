@@ -1,4 +1,4 @@
-package mediathek.gui.messages;
+package mediathog.gui.messages;
 
 public class InstallTabSwitchListenerEvent extends BaseEvent {
 	public enum INSTALL_TYPE {INSTALL, REMOVE}

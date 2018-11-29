@@ -1,7 +1,7 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
-import mediathek.tool.TModel;
+import mediathog.tool.TModel;
 
 import javax.swing.*;
 import java.util.LinkedList;

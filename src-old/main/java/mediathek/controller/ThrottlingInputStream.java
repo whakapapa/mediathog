@@ -1,4 +1,4 @@
-package mediathek.controller;
+package mediathog.controller;
 
 import com.google.common.util.concurrent.RateLimiter;
 

@@ -13,7 +13,7 @@ import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
 import mSearch.tool.InputStreamProgressMonitor;
 import mSearch.tool.MVHttpClient;
 import mSearch.tool.ProgressMonitorInputStream;
-import mediathek.tool.TrailerTeaserChecker;
+import mediathog.tool.TrailerTeaserChecker;
 import okhttp3.Request;
 import okhttp3.Response;
 import okhttp3.ResponseBody;

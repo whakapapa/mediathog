@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import javax.swing.table.DefaultTableModel;
 import java.util.List;

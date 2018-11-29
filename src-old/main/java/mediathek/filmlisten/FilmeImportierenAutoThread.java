@@ -1,4 +1,4 @@
-package mediathek.filmlisten;
+package mediathog.filmlisten;
 
 import mSearch.Config;
 import mSearch.daten.tList;

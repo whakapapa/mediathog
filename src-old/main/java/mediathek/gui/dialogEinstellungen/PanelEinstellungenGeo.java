@@ -1,14 +1,14 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
 import mSearch.daten.DatenFilm;
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.file.GetFile;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialog.DialogHilfe;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.file.GetFile;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialog.DialogHilfe;
 import org.apache.commons.configuration2.Configuration;
 
 import javax.swing.*;

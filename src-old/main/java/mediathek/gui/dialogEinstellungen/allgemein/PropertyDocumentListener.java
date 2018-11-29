@@ -1,4 +1,4 @@
-package mediathek.gui.dialogEinstellungen.allgemein;
+package mediathog.gui.dialogEinstellungen.allgemein;
 
 import javafx.animation.PauseTransition;
 import javafx.util.Duration;

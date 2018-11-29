@@ -1,14 +1,14 @@
 
-package mediathek.tool.cellrenderer;
+package mediathog.tool.cellrenderer;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.Log;
-import mediathek.config.Icons;
-import mediathek.config.MVColor;
-import mediathek.controller.starter.Start;
-import mediathek.daten.DatenDownload;
-import mediathek.tool.MVSenderIconCache;
-import mediathek.tool.table.MVTable;
+import mediathog.config.Icons;
+import mediathog.config.MVColor;
+import mediathog.controller.starter.Start;
+import mediathog.daten.DatenDownload;
+import mediathog.tool.MVSenderIconCache;
+import mediathog.tool.table.MVTable;
 
 import javax.swing.*;
 import javax.swing.border.Border;

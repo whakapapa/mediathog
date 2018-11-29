@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import com.jidesoft.utils.SystemInfo;
 

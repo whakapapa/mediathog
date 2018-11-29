@@ -1,13 +1,13 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.tool.Filter;
-import mediathek.tool.MVMessageDialog;
-import mediathek.tool.TModelMediaDB;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.tool.Filter;
+import mediathog.tool.MVMessageDialog;
+import mediathog.tool.TModelMediaDB;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

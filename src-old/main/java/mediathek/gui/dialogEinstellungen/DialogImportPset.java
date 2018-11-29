@@ -1,9 +1,9 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
-import mediathek.config.Daten;
-import mediathek.daten.ListePset;
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.config.Daten;
+import mediathog.daten.ListePset;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 

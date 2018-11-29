@@ -1,4 +1,4 @@
-package mediathek.update;
+package mediathog.update;
 
 import javafx.embed.swing.JFXPanel;
 import net.miginfocom.swing.MigLayout;

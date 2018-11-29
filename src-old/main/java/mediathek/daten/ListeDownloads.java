@@ -1,16 +1,16 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.daten.DatenFilm;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.controller.starter.Start;
-import mediathek.gui.dialog.DialogAboNoSet;
-import mediathek.gui.messages.StartEvent;
-import mediathek.tool.TModel;
-import mediathek.tool.TModelDownload;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.controller.starter.Start;
+import mediathog.gui.dialog.DialogAboNoSet;
+import mediathog.gui.messages.StartEvent;
+import mediathog.tool.TModel;
+import mediathog.tool.TModelDownload;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

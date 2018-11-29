@@ -1,8 +1,8 @@
 
-package mediathek.controller.starter;
+package mediathog.controller.starter;
 
 import mSearch.tool.Datum;
-import mediathek.controller.MVBandwidthCountingInputStream;
+import mediathog.controller.MVBandwidthCountingInputStream;
 
 public class Start {
 

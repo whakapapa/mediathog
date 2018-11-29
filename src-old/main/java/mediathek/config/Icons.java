@@ -1,7 +1,7 @@
 
-package mediathek.config;
+package mediathog.config;
 
-import mediathek.res.GetIcon;
+import mediathog.res.GetIcon;
 
 import javax.swing.*;
 import java.awt.*;

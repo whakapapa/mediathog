@@ -1,11 +1,11 @@
-package mediathek.tool.cellrenderer;
+package mediathog.tool.cellrenderer;
 
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Listener;
-import mediathek.config.Icons;
-import mediathek.config.MVColor;
-import mediathek.controller.starter.Start;
-import mediathek.tool.MVSenderIconCache;
+import mediathog.config.Icons;
+import mediathog.config.MVColor;
+import mediathog.controller.starter.Start;
+import mediathog.tool.MVSenderIconCache;
 import org.apache.commons.configuration2.Configuration;
 
 import javax.swing.*;

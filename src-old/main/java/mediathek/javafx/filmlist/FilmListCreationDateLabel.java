@@ -1,7 +1,7 @@
-package mediathek.javafx.filmlist;
+package mediathog.javafx.filmlist;
 
-import mediathek.config.Daten;
-import mediathek.javafx.tool.ComputedLabel;
+import mediathog.config.Daten;
+import mediathog.javafx.tool.ComputedLabel;
 
 /**
 * Computed label which will display the creation date of the current film list.

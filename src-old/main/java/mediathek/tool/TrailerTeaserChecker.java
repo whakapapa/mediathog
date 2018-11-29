@@ -1,4 +1,4 @@
-package mediathek.tool;
+package mediathog.tool;
 
 /**
 * This class check if titel contains specific keywords.

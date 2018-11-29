@@ -4,7 +4,7 @@ import com.jidesoft.utils.SystemInfo;
 import javafx.animation.PauseTransition;
 import javafx.util.Duration;
 import mSearch.daten.DatenFilm;
-import mediathek.config.Daten;
+import mediathog.config.Daten;
 import org.apache.commons.configuration2.Configuration;
 import org.apache.commons.configuration2.XMLConfiguration;
 import org.apache.commons.configuration2.event.ConfigurationEvent;

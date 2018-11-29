@@ -1,12 +1,12 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
-import mediathek.MediathekGui;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig.Configs;
-import mediathek.gui.PanelVorlage;
-import mediathek.res.GetIcon;
+import mediathog.MediathekGui;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig.Configs;
+import mediathog.gui.PanelVorlage;
+import mediathog.res.GetIcon;
 
 import javax.swing.*;
 import java.awt.*;

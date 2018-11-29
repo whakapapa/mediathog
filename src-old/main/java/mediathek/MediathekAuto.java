@@ -1,5 +1,5 @@
 
-package mediathek;
+package mediathog;
 
 import javafx.application.Application;
 import mSearch.filmeSuchen.ListenerFilmeLaden;
@@ -8,11 +8,11 @@ import mSearch.filmlisten.reader.FastAutoFilmListReader;
 import mSearch.filmlisten.reader.FilmListReader;
 import mSearch.tool.Log;
 import mSearch.tool.SysMsg;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.controller.IoXmlLesen;
-import mediathek.daten.DatenDownload;
-import mediathek.tool.MVFilmSize;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.controller.IoXmlLesen;
+import mediathog.daten.DatenDownload;
+import mediathog.tool.MVFilmSize;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

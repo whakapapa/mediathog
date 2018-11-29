@@ -1,7 +1,7 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
-import mediathek.config.MVColor;
+import mediathog.config.MVColor;
 
 @SuppressWarnings("serial")
 public class TModelColor extends TModel {

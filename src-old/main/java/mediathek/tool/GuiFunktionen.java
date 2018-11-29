@@ -1,12 +1,12 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.Log;
-import mediathek.MediathekGui;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.config.MVConfig.Configs;
+import mediathog.MediathekGui;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.config.MVConfig.Configs;
 
 import javax.swing.*;
 import java.awt.*;

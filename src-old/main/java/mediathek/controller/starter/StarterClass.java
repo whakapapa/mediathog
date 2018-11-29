@@ -1,5 +1,5 @@
 
-package mediathek.controller.starter;
+package mediathog.controller.starter;
 
 import com.apple.eawt.Application;
 import com.jidesoft.utils.SystemInfo;
@@ -8,14 +8,14 @@ import mSearch.daten.DatenFilm;
 import mSearch.tool.Datum;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.controller.MVBandwidthCountingInputStream;
-import mediathek.daten.DatenDownload;
-import mediathek.daten.DatenPset;
-import mediathek.gui.messages.StartEvent;
-import mediathek.tool.MVFilmSize;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.controller.MVBandwidthCountingInputStream;
+import mediathog.daten.DatenDownload;
+import mediathog.daten.DatenPset;
+import mediathog.gui.messages.StartEvent;
+import mediathog.tool.MVFilmSize;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.controlsfx.control.Notifications;

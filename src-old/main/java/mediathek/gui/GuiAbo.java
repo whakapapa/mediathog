@@ -1,23 +1,23 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
 import javafx.application.Platform;
 import mSearch.tool.Datum;
 import mSearch.tool.Listener;
-import mediathek.MediathekGui;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenAbo;
-import mediathek.gui.dialog.DialogEditAbo;
-import mediathek.gui.messages.UpdateStatusBarLeftDisplayEvent;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.HinweisKeineAuswahl;
-import mediathek.tool.MVSenderIconCache;
-import mediathek.tool.TModelAbo;
-import mediathek.tool.cellrenderer.CellRendererAbo;
-import mediathek.tool.listener.BeobTableHeader;
-import mediathek.tool.table.MVAbosTable;
+import mediathog.MediathekGui;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenAbo;
+import mediathog.gui.dialog.DialogEditAbo;
+import mediathog.gui.messages.UpdateStatusBarLeftDisplayEvent;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.HinweisKeineAuswahl;
+import mediathog.tool.MVSenderIconCache;
+import mediathog.tool.TModelAbo;
+import mediathog.tool.cellrenderer.CellRendererAbo;
+import mediathog.tool.listener.BeobTableHeader;
+import mediathog.tool.table.MVAbosTable;
 
 import javax.swing.*;
 import java.awt.*;

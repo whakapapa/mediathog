@@ -1,12 +1,12 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.daten.DatenFilm;
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.tool.GuiFunktionenProgramme;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Daten;
+import mediathog.tool.GuiFunktionenProgramme;
+import mediathog.tool.MVMessageDialog;
 
 import javax.swing.*;
 import java.awt.*;

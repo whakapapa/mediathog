@@ -1,4 +1,4 @@
-package mediathek.gui;
+package mediathog.gui;
 
 import com.jidesoft.swing.ButtonStyle;
 import com.jidesoft.swing.JideButton;

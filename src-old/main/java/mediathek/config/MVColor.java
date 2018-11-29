@@ -1,9 +1,9 @@
 
-package mediathek.config;
+package mediathog.config;
 
 import java.awt.Color;
 import java.util.LinkedList;
-import mediathek.tool.MVC;
+import mediathog.tool.MVC;
 
 public class MVColor {
 

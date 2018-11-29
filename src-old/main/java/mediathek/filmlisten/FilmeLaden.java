@@ -2,7 +2,7 @@
 
 
 
-package mediathek.filmlisten;
+package mediathog.filmlisten;
 
 import mSearch.Config;
 import mSearch.Const;
@@ -15,14 +15,14 @@ import mSearch.filmlisten.ListeFilmlistenUrls;
 import mSearch.filmlisten.reader.FilmListReader;
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.MVHttpClient;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.gui.dialog.DialogLeer;
-import mediathek.gui.dialogEinstellungen.PanelFilmlisteLaden;
-import mediathek.javafx.StartupProgressPanel;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.gui.dialog.DialogLeer;
+import mediathog.gui.dialogEinstellungen.PanelFilmlisteLaden;
+import mediathog.javafx.StartupProgressPanel;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVMessageDialog;
 import okhttp3.Request;
 import okhttp3.Response;
 import okhttp3.ResponseBody;

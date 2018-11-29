@@ -1,18 +1,18 @@
 
-package mediathek.gui.dialogEinstellungen.allgemein;
+package mediathog.gui.dialogEinstellungen.allgemein;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialog.DialogHilfe;
-import mediathek.gui.messages.InstallTabSwitchListenerEvent;
-import mediathek.tool.MVFunctionSys;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialog.DialogHilfe;
+import mediathog.gui.messages.InstallTabSwitchListenerEvent;
+import mediathog.tool.MVFunctionSys;
+import mediathog.tool.MVMessageDialog;
 import org.apache.commons.configuration2.Configuration;
 
 import javax.swing.*;

@@ -1,11 +1,11 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.MVConfig;
-import mediathek.gui.GuiDownloads;
-import mediathek.gui.dialog.DialogProgrammOrdnerOeffnen;
+import mediathog.config.MVConfig;
+import mediathog.gui.GuiDownloads;
+import mediathog.gui.dialog.DialogProgrammOrdnerOeffnen;
 
 import javax.swing.*;
 import java.awt.*;

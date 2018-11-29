@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
@@ -7,8 +7,8 @@ import javafx.scene.control.ProgressIndicator;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.paint.Color;
 import mSearch.tool.ApplicationConfiguration;
-import mediathek.config.Daten;
-import mediathek.gui.messages.TimerEvent;
+import mediathog.config.Daten;
+import mediathog.gui.messages.TimerEvent;
 import net.engio.mbassy.listener.Handler;
 import org.apache.commons.configuration2.Configuration;
 

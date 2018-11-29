@@ -1,14 +1,14 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import com.jidesoft.swing.MarqueePane;
 import com.jidesoft.utils.SystemInfo;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.gui.HyperlinkButton;
-import mediathek.gui.actions.DisposeDialogAction;
-import mediathek.gui.actions.UrlHyperlinkAction;
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.gui.HyperlinkButton;
+import mediathog.gui.actions.DisposeDialogAction;
+import mediathog.gui.actions.UrlHyperlinkAction;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 import javax.swing.GroupLayout.Alignment;

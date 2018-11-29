@@ -1,8 +1,8 @@
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
 import mSearch.tool.javafx.FXErrorDialog;
-import mediathek.config.Konstanten;
-import mediathek.res.GetIcon;
+import mediathog.config.Konstanten;
+import mediathog.res.GetIcon;
 
 import javax.swing.*;
 import java.awt.*;

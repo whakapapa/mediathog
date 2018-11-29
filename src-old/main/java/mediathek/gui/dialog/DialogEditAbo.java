@@ -1,15 +1,15 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import mSearch.tool.FilenameUtils;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVColor;
-import mediathek.daten.DatenAbo;
-import mediathek.file.GetFile;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVColor;
+import mediathog.daten.DatenAbo;
+import mediathog.file.GetFile;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVMessageDialog;
 
 import javax.swing.*;
 import javax.swing.border.CompoundBorder;

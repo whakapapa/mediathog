@@ -1,16 +1,16 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.Const;
 import mSearch.tool.ApplicationConfiguration;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.controller.starter.RuntimeExec;
-import mediathek.daten.DatenProg;
-import mediathek.daten.DatenPset;
-import mediathek.daten.ListePset;
-import mediathek.gui.dialog.DialogHilfe;
-import mediathek.gui.dialogEinstellungen.DialogImportPset;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.controller.starter.RuntimeExec;
+import mediathog.daten.DatenProg;
+import mediathog.daten.DatenPset;
+import mediathog.daten.ListePset;
+import mediathog.gui.dialog.DialogHilfe;
+import mediathog.gui.dialogEinstellungen.DialogImportPset;
 
 import javax.swing.*;
 import java.awt.*;

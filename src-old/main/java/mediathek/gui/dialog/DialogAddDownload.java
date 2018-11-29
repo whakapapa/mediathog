@@ -1,18 +1,18 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.daten.DatenFilm;
 import mSearch.tool.FilenameUtils;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.*;
-import mediathek.daten.DatenDownload;
-import mediathek.daten.DatenPset;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.GuiFunktionenProgramme;
-import mediathek.tool.MVFilmSize;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.*;
+import mediathog.daten.DatenDownload;
+import mediathog.daten.DatenPset;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.GuiFunktionenProgramme;
+import mediathog.tool.MVFilmSize;
+import mediathog.tool.MVMessageDialog;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;

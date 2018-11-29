@@ -1,9 +1,9 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.config.MVColor;
+import mediathog.config.Daten;
+import mediathog.config.MVColor;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;

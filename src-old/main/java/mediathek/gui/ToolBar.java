@@ -1,15 +1,15 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
 import mSearch.filmeSuchen.ListenerFilmeLaden;
 import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
 import mSearch.tool.Listener;
-import mediathek.MediathekGui;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.gui.messages.FilmListWriteStartEvent;
-import mediathek.gui.messages.FilmListWriteStopEvent;
+import mediathog.MediathekGui;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.gui.messages.FilmListWriteStartEvent;
+import mediathog.gui.messages.FilmListWriteStopEvent;
 import net.engio.mbassy.listener.Handler;
 
 import javax.swing.Box.Filler;

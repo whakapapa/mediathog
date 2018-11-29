@@ -1,13 +1,13 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.Konstanten;
-import mediathek.file.GetFile;
-import mediathek.gui.HyperlinkButton;
-import mediathek.gui.actions.UrlHyperlinkAction;
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.Konstanten;
+import mediathog.file.GetFile;
+import mediathog.gui.HyperlinkButton;
+import mediathog.gui.actions.UrlHyperlinkAction;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 import javax.swing.border.TitledBorder;

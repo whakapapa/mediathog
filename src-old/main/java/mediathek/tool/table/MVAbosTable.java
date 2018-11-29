@@ -1,10 +1,10 @@
-package mediathek.tool.table;
+package mediathog.tool.table;
 
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenAbo;
-import mediathek.tool.MVFont;
-import mediathek.tool.TModel;
-import mediathek.tool.TModelAbo;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenAbo;
+import mediathog.tool.MVFont;
+import mediathog.tool.TModel;
+import mediathog.tool.TModelAbo;
 
 public class MVAbosTable extends MVTable {
 	private static final long serialVersionUID = 679215520194372998L;

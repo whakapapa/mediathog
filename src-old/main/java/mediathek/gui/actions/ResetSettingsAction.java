@@ -1,8 +1,8 @@
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
-import mediathek.config.Daten;
-import mediathek.gui.dialog.ResetSettingsDialog;
-import mediathek.tool.GuiFunktionen;
+import mediathog.config.Daten;
+import mediathog.gui.dialog.ResetSettingsDialog;
+import mediathog.tool.GuiFunktionen;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

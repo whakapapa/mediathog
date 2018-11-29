@@ -1,4 +1,4 @@
-package mediathek.gui;
+package mediathog.gui;
 
 import java.awt.*;
 

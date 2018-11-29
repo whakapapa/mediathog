@@ -9,25 +9,25 @@ import (
 
 //TODO old cruft
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.daten.DatenFilm;
 import mSearch.tool.FilenameUtils;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.*;
-import mediathek.controller.IoXmlSchreiben;
-import mediathek.daten.DatenProg;
-import mediathek.daten.DatenPset;
-import mediathek.daten.ListePset;
-import mediathek.file.GetFile;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialog.DialogHilfe;
-import mediathek.tool.*;
-import mediathek.tool.table.MVProgTable;
-import mediathek.tool.table.MVPsetTable;
-import mediathek.tool.table.MVTable;
+import mediathog.config.*;
+import mediathog.controller.IoXmlSchreiben;
+import mediathog.daten.DatenProg;
+import mediathog.daten.DatenPset;
+import mediathog.daten.ListePset;
+import mediathog.file.GetFile;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialog.DialogHilfe;
+import mediathog.tool.*;
+import mediathog.tool.table.MVProgTable;
+import mediathog.tool.table.MVPsetTable;
+import mediathog.tool.table.MVTable;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

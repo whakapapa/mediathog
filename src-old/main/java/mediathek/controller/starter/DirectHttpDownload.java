@@ -1,23 +1,23 @@
 
-package mediathek.controller.starter;
+package mediathog.controller.starter;
 
 import com.google.common.util.concurrent.RateLimiter;
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
 import mSearch.tool.MVHttpClient;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.controller.MVBandwidthCountingInputStream;
-import mediathek.controller.ThrottlingInputStream;
-import mediathek.daten.DatenDownload;
-import mediathek.gui.dialog.DialogContinueDownload;
-import mediathek.gui.dialog.MeldungDownloadfehler;
-import mediathek.gui.messages.DownloadFinishedEvent;
-import mediathek.gui.messages.DownloadRateLimitChangedEvent;
-import mediathek.gui.messages.DownloadStartEvent;
-import mediathek.tool.MVInfoFile;
-import mediathek.tool.MVSubtitle;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.controller.MVBandwidthCountingInputStream;
+import mediathog.controller.ThrottlingInputStream;
+import mediathog.daten.DatenDownload;
+import mediathog.gui.dialog.DialogContinueDownload;
+import mediathog.gui.dialog.MeldungDownloadfehler;
+import mediathog.gui.messages.DownloadFinishedEvent;
+import mediathog.gui.messages.DownloadRateLimitChangedEvent;
+import mediathog.gui.messages.DownloadStartEvent;
+import mediathog.tool.MVInfoFile;
+import mediathog.tool.MVSubtitle;
 import net.engio.mbassy.listener.Handler;
 import okhttp3.Request;
 import okhttp3.Response;

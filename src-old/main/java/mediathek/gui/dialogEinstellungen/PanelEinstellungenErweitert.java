@@ -1,18 +1,18 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialog.DialogHilfe;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVMessageDialog;
-import mediathek.tool.TextCopyPaste;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialog.DialogHilfe;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVMessageDialog;
+import mediathog.tool.TextCopyPaste;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

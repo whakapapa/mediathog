@@ -1,15 +1,15 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
 import mSearch.tool.Listener;
 import mSearch.tool.ReplaceList;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.gui.PanelVorlage;
-import mediathek.tool.HinweisKeineAuswahl;
-import mediathek.tool.TModel;
-import mediathek.tool.TextCopyPaste;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.gui.PanelVorlage;
+import mediathog.tool.HinweisKeineAuswahl;
+import mediathog.tool.TModel;
+import mediathog.tool.TextCopyPaste;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

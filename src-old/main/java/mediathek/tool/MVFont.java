@@ -1,9 +1,9 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import javax.swing.JTable;
 import mSearch.tool.Listener;
-import mediathek.config.MVConfig;
+import mediathog.config.MVConfig;
 
 public class MVFont {
 

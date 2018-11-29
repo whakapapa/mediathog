@@ -1,7 +1,7 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 import java.awt.*;

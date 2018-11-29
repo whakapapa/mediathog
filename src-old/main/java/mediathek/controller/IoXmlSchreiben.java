@@ -1,13 +1,13 @@
 
-package mediathek.controller;
+package mediathog.controller;
 
 import mSearch.filmlisten.DatenFilmlisteUrl;
 import mSearch.tool.Log;
 import mSearch.tool.ReplaceList;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.daten.*;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.daten.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

@@ -1,10 +1,10 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.Log;
-import mediathek.Main;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
+import mediathog.Main;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

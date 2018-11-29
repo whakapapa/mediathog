@@ -1,10 +1,10 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Log;
 import mSearch.tool.TimedTextMarkupLanguageParser;
-import mediathek.daten.DatenDownload;
+import mediathog.daten.DatenDownload;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

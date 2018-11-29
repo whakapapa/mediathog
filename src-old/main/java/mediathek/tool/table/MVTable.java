@@ -1,11 +1,11 @@
 
-package mediathek.tool.table;
+package mediathog.tool.table;
 
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.MVConfig;
-import mediathek.tool.MVFont;
-import mediathek.tool.TModel;
+import mediathog.config.MVConfig;
+import mediathog.tool.MVFont;
+import mediathog.tool.TModel;
 
 import javax.swing.*;
 import javax.swing.RowSorter.SortKey;

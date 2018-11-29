@@ -1,5 +1,5 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.daten.DatenFilm;
 import mSearch.daten.tList;
@@ -7,9 +7,9 @@ import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Duration;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.tool.Filter;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.tool.Filter;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

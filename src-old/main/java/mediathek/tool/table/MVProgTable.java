@@ -1,7 +1,7 @@
-package mediathek.tool.table;
+package mediathog.tool.table;
 
-import mediathek.daten.DatenProg;
-import mediathek.tool.TModel;
+import mediathog.daten.DatenProg;
+import mediathog.tool.TModel;
 
 public class MVProgTable extends MVTable {
 	private static final long serialVersionUID = -2363550088890708511L;

@@ -1,11 +1,11 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.file.GetFile;
-import mediathek.javafx.AppTerminationIndefiniteProgress;
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.file.GetFile;
+import mediathog.javafx.AppTerminationIndefiniteProgress;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 import java.awt.*;

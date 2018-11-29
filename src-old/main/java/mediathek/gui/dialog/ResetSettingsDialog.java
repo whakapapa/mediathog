@@ -1,7 +1,7 @@
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
-import mediathek.config.Daten;
-import mediathek.gui.ResetSettingsPanel;
+import mediathog.config.Daten;
+import mediathog.gui.ResetSettingsPanel;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,12 +1,12 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.Log;
-import mediathek.config.Icons;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Icons;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVMessageDialog;
 
 import javax.swing.*;
 import java.awt.*;

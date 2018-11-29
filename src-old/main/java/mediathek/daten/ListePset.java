@@ -1,13 +1,13 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.tool.Listener;
-import mediathek.config.MVConfig;
-import mediathek.gui.dialog.DialogOk;
-import mediathek.gui.dialogEinstellungen.PanelProgrammPfade;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.GuiFunktionenProgramme;
-import mediathek.tool.TModel;
+import mediathog.config.MVConfig;
+import mediathog.gui.dialog.DialogOk;
+import mediathog.gui.dialogEinstellungen.PanelProgrammPfade;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.GuiFunktionenProgramme;
+import mediathog.tool.TModel;
 import org.apache.commons.lang3.StringUtils;
 
 import javax.swing.*;

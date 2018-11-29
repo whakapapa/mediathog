@@ -1,12 +1,12 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.file.GetFile;
-import mediathek.gui.dialog.DialogHilfe;
-import mediathek.tool.GuiFunktionenProgramme;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.file.GetFile;
+import mediathog.gui.dialog.DialogHilfe;
+import mediathog.tool.GuiFunktionenProgramme;
 
 import javax.swing.*;
 

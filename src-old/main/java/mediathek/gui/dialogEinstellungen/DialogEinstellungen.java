@@ -1,14 +1,14 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialogEinstellungen.allgemein.PanelEinstellungen;
-import mediathek.res.GetIcon;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.GuiFunktionen;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialogEinstellungen.allgemein.PanelEinstellungen;
+import mediathog.res.GetIcon;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.GuiFunktionen;
 
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;

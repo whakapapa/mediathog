@@ -1,15 +1,15 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.daten.ListePset;
-import mediathek.daten.ListePsetVorlagen;
-import mediathek.gui.dialogEinstellungen.PanelEinstellungenGeo;
-import mediathek.gui.dialogEinstellungen.PanelProgrammPfade;
-import mediathek.gui.dialogEinstellungen.PanelPsetKurz;
-import mediathek.gui.dialogEinstellungen.PanelPsetLang;
-import mediathek.tool.GuiFunktionenProgramme;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.daten.ListePset;
+import mediathog.daten.ListePsetVorlagen;
+import mediathog.gui.dialogEinstellungen.PanelEinstellungenGeo;
+import mediathog.gui.dialogEinstellungen.PanelProgrammPfade;
+import mediathog.gui.dialogEinstellungen.PanelPsetKurz;
+import mediathog.gui.dialogEinstellungen.PanelPsetLang;
+import mediathog.tool.GuiFunktionenProgramme;
 
 import javax.swing.*;
 import java.awt.*;

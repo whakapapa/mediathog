@@ -1,11 +1,11 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
 import mSearch.daten.DatenFilm;
-import mediathek.config.MVColor;
-import mediathek.daten.DatenAbo;
+import mediathog.config.MVColor;
+import mediathog.daten.DatenAbo;
 import org.apache.commons.lang3.StringUtils;
 
 import javax.swing.*;

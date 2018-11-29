@@ -1,7 +1,7 @@
 
-package mediathek.tool.listener;
+package mediathog.tool.listener;
 
-import mediathek.config.Icons;
+import mediathog.config.Icons;
 
 import javax.swing.*;
 import java.awt.*;

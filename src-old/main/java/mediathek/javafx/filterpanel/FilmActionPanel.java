@@ -1,4 +1,4 @@
-package mediathek.javafx.filterpanel;
+package mediathog.javafx.filterpanel;
 
 import impl.org.controlsfx.autocompletion.SuggestionProvider;
 import javafx.animation.PauseTransition;
@@ -23,14 +23,14 @@ import mSearch.filmeSuchen.ListenerFilmeLaden;
 import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.GermanStringSorter;
-import mediathek.config.Daten;
-import mediathek.gui.dialog.DialogLeer;
-import mediathek.gui.dialogEinstellungen.PanelBlacklist;
-import mediathek.gui.messages.FilmListWriteStartEvent;
-import mediathek.gui.messages.FilmListWriteStopEvent;
-import mediathek.javafx.CenteredBorderPane;
-import mediathek.javafx.VerticalSeparator;
-import mediathek.tool.Filter;
+import mediathog.config.Daten;
+import mediathog.gui.dialog.DialogLeer;
+import mediathog.gui.dialogEinstellungen.PanelBlacklist;
+import mediathog.gui.messages.FilmListWriteStartEvent;
+import mediathog.gui.messages.FilmListWriteStopEvent;
+import mediathog.javafx.CenteredBorderPane;
+import mediathog.javafx.VerticalSeparator;
+import mediathog.tool.Filter;
 import net.engio.mbassy.listener.Handler;
 import org.apache.commons.configuration2.Configuration;
 import org.controlsfx.control.CheckListView;

@@ -1,14 +1,14 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.daten.DatenFilm;
 import mSearch.tool.FilenameUtils;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenDownload;
-import mediathek.daten.DatenPset;
-import mediathek.daten.ListePset;
-import mediathek.gui.dialog.DialogZiel;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenDownload;
+import mediathog.daten.DatenPset;
+import mediathog.daten.ListePset;
+import mediathog.gui.dialog.DialogZiel;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

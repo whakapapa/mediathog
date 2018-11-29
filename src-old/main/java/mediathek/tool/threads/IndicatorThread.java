@@ -1,8 +1,8 @@
-package mediathek.tool.threads;
+package mediathog.tool.threads;
 
-import mediathek.config.Daten;
-import mediathek.controller.starter.Start;
-import mediathek.daten.DatenDownload;
+import mediathog.config.Daten;
+import mediathog.controller.starter.Start;
+import mediathog.daten.DatenDownload;
 
 import java.util.LinkedList;
 

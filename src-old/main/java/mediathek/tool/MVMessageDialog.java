@@ -1,10 +1,10 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import java.awt.Component;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
-import mediathek.config.Daten;
+import mediathog.config.Daten;
 
 public class MVMessageDialog {
 

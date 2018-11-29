@@ -1,5 +1,5 @@
 
-package mediathek.controller;
+package mediathog.controller;
 
 import mSearch.tool.Functions;
 import mSearch.tool.GermanStringSorter;

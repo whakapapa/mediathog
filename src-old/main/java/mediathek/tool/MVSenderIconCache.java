@@ -1,4 +1,4 @@
-package mediathek.tool;
+package mediathog.tool;
 
 import java.awt.Image;
 import java.util.HashMap;

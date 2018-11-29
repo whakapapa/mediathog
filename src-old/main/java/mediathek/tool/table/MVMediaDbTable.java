@@ -1,8 +1,8 @@
-package mediathek.tool.table;
+package mediathog.tool.table;
 
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenMediaDB;
-import mediathek.tool.TModel;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenMediaDB;
+import mediathog.tool.TModel;
 
 public class MVMediaDbTable extends MVTable {
 	private static final long serialVersionUID = 5220131462717851342L;

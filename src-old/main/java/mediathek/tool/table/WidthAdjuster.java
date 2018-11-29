@@ -1,4 +1,4 @@
-package mediathek.tool.table;
+package mediathog.tool.table;
 
 import javax.swing.*;
 import javax.swing.table.JTableHeader;

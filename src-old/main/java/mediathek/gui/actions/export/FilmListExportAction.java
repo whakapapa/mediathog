@@ -1,4 +1,4 @@
-package mediathek.gui.actions.export;
+package mediathog.gui.actions.export;
 
 import javafx.application.Platform;
 import javafx.scene.control.Alert;
@@ -7,9 +7,9 @@ import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.HBox;
 import javafx.stage.FileChooser;
 import javafx.stage.Modality;
-import mediathek.MediathekGui;
-import mediathek.javafx.CenteredBorderPane;
-import mediathek.javafx.VerticalSeparator;
+import mediathog.MediathekGui;
+import mediathog.javafx.CenteredBorderPane;
+import mediathog.javafx.VerticalSeparator;
 import org.controlsfx.control.StatusBar;
 
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.scene.Node;
 import javafx.scene.layout.BorderPane;

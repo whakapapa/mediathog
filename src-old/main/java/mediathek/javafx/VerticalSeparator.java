@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.geometry.Orientation;
 import javafx.scene.control.Separator;

@@ -1,7 +1,7 @@
 
-package mediathek.tool.listener;
+package mediathog.tool.listener;
 
-import mediathek.tool.GuiFunktionen;
+import mediathog.tool.GuiFunktionen;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

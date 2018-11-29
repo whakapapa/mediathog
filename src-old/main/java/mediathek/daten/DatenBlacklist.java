@@ -1,7 +1,7 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
-import mediathek.tool.Filter;
+import mediathog.tool.Filter;
 
 public class DatenBlacklist extends MVData<DatenBlacklist> {
 

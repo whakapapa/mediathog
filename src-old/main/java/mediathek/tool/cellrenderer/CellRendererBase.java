@@ -1,10 +1,10 @@
-package mediathek.tool.cellrenderer;
+package mediathog.tool.cellrenderer;
 
 import com.jidesoft.utils.SystemInfo;
 import jiconfont.icons.FontAwesome;
 import jiconfont.swing.IconFontSwing;
-import mediathek.tool.MVFont;
-import mediathek.tool.MVSenderIconCache;
+import mediathog.tool.MVFont;
+import mediathog.tool.MVSenderIconCache;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;

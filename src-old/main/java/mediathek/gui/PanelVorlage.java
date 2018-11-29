@@ -1,8 +1,8 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
-import mediathek.config.Daten;
-import mediathek.tool.table.MVTable;
+import mediathog.config.Daten;
+import mediathog.tool.table.MVTable;
 
 import javax.swing.*;
 

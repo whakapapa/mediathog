@@ -1,4 +1,4 @@
-package mediathek.filmlisten;
+package mediathog.filmlisten;
 
 interface IAction {
 	void onFinished(boolean ok);

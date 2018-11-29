@@ -1,9 +1,9 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.Log;
-import mediathek.config.Icons;
-import mediathek.daten.DatenProg;
+import mediathog.config.Icons;
+import mediathog.daten.DatenProg;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;

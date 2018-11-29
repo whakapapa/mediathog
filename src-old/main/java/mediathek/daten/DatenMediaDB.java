@@ -1,8 +1,8 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
-import mediathek.config.Daten;
-import mediathek.tool.MVMediaDBFileSize;
+import mediathog.config.Daten;
+import mediathog.tool.MVMediaDBFileSize;
 import org.apache.commons.lang3.StringUtils;
 
 public class DatenMediaDB extends MVData<DatenMediaDB> {

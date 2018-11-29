@@ -1,12 +1,12 @@
-package mediathek.tool.table;
+package mediathog.tool.table;
 
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenDownload;
-import mediathek.tool.MVFont;
-import mediathek.tool.TModel;
-import mediathek.tool.TModelDownload;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenDownload;
+import mediathog.tool.MVFont;
+import mediathog.tool.TModel;
+import mediathog.tool.TModelDownload;
 
 import javax.activation.DataHandler;
 import javax.swing.*;

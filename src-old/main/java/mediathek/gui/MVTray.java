@@ -1,12 +1,12 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
 import javafx.application.Platform;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.gui.messages.TimerEvent;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.gui.messages.TimerEvent;
 import net.engio.mbassy.listener.Handler;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

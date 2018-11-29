@@ -1,4 +1,4 @@
-package mediathek.gui.bandwidth;
+package mediathog.gui.bandwidth;
 
 import info.monitorenter.gui.chart.Chart2D;
 import info.monitorenter.gui.chart.IAxis;
@@ -6,10 +6,10 @@ import info.monitorenter.gui.chart.labelformatters.LabelFormatterAutoUnits;
 import info.monitorenter.gui.chart.rangepolicies.RangePolicyForcedPoint;
 import info.monitorenter.gui.chart.traces.Trace2DLtd;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.controller.starter.Start;
-import mediathek.daten.DatenDownload;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.controller.starter.Start;
+import mediathog.daten.DatenDownload;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

@@ -8,9 +8,9 @@ import com.jidesoft.utils.SystemInfo;
 import mSearch.daten.DatenFilm;
 import mSearch.daten.tList;
 import mSearch.tool.ApplicationConfiguration;
-import mediathek.config.Daten;
-import mediathek.gui.messages.FilmListWriteStartEvent;
-import mediathek.gui.messages.FilmListWriteStopEvent;
+import mediathog.config.Daten;
+import mediathog.gui.messages.FilmListWriteStartEvent;
+import mediathog.gui.messages.FilmListWriteStopEvent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

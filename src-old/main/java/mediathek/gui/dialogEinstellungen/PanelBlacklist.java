@@ -1,20 +1,20 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
 import mSearch.filmeSuchen.ListenerFilmeLaden;
 import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenBlacklist;
-import mediathek.file.GetFile;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialog.DialogHilfe;
-import mediathek.tool.Filter;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.TModel;
-import mediathek.tool.TextCopyPaste;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenBlacklist;
+import mediathog.file.GetFile;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialog.DialogHilfe;
+import mediathog.tool.Filter;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.TModel;
+import mediathog.tool.TextCopyPaste;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

@@ -1,13 +1,13 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.tool.Log;
 import mSearch.tool.MVHttpClient;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.file.GetFile;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.TModel;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.file.GetFile;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.TModel;
 import okhttp3.Request;
 import okhttp3.Response;
 import okhttp3.ResponseBody;

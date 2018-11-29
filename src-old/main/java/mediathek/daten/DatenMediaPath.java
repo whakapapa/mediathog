@@ -1,5 +1,5 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 public class DatenMediaPath extends MVData<DatenMediaPath> {
 

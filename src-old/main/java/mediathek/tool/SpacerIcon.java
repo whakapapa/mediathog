@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import java.awt.Component;
 import java.awt.Graphics;

@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import java.awt.Frame;
 import javax.swing.JOptionPane;

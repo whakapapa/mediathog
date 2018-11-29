@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.scene.control.Button;
 import javafx.scene.control.Tooltip;

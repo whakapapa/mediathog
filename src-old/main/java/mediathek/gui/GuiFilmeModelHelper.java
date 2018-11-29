@@ -1,14 +1,14 @@
-package mediathek.gui;
+package mediathog.gui;
 
 import javafx.collections.ObservableList;
 import mSearch.daten.DatenFilm;
 import mSearch.daten.tList;
-import mediathek.config.Daten;
-import mediathek.javafx.filterpanel.FilmActionPanel;
-import mediathek.tool.Filter;
-import mediathek.tool.TModel;
-import mediathek.tool.TModelFilm;
-import mediathek.tool.table.MVTable;
+import mediathog.config.Daten;
+import mediathog.javafx.filterpanel.FilmActionPanel;
+import mediathog.tool.Filter;
+import mediathog.tool.TModel;
+import mediathog.tool.TModelFilm;
+import mediathog.tool.table.MVTable;
 
 import java.util.concurrent.TimeUnit;
 

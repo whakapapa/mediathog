@@ -1,4 +1,4 @@
-package mediathek.update;
+package mediathog.update;
 
 import mSearch.tool.Version;
 

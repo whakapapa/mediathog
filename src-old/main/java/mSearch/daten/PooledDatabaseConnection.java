@@ -2,8 +2,8 @@ package mSearch.daten;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.Config;
-import mediathek.config.Daten;
-import mediathek.tool.GuiFunktionen;
+import mediathog.config.Daten;
+import mediathog.tool.GuiFunktionen;
 import org.apache.commons.dbcp2.*;
 import org.apache.commons.pool2.ObjectPool;
 import org.apache.commons.pool2.impl.GenericObjectPool;

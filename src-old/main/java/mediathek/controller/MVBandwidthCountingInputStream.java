@@ -1,8 +1,8 @@
 
-package mediathek.controller;
+package mediathog.controller;
 
-import mediathek.daten.DatenDownload;
-import mediathek.tool.MVFilmSize;
+import mediathog.daten.DatenDownload;
+import mediathog.tool.MVFilmSize;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.IOException;

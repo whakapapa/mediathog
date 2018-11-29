@@ -1,11 +1,11 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
-import mediathek.config.Daten;
-import mediathek.config.Icons;
-import mediathek.daten.ListePsetVorlagen;
-import mediathek.tool.EscapeKeyHandler;
-import mediathek.tool.GuiFunktionenProgramme;
+import mediathog.config.Daten;
+import mediathog.config.Icons;
+import mediathog.daten.ListePsetVorlagen;
+import mediathog.tool.EscapeKeyHandler;
+import mediathog.tool.GuiFunktionenProgramme;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

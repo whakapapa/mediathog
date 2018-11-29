@@ -1,4 +1,4 @@
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

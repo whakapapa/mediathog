@@ -1,8 +1,8 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.Datum;
-import mediathek.daten.DatenDownload;
+import mediathog.daten.DatenDownload;
 
 @SuppressWarnings("serial")
 public class TModelDownload extends TModel {

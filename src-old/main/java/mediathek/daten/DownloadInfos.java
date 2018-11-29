@@ -1,11 +1,11 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.controller.starter.Start;
-import mediathek.tool.MVFilmSize;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.controller.starter.Start;
+import mediathog.tool.MVFilmSize;
 
 import java.text.DecimalFormat;
 import java.util.LinkedList;

@@ -1,12 +1,12 @@
-package mediathek.update;
+package mediathog.update;
 
 import javafx.application.Platform;
 import javafx.scene.Scene;
 import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
-import mediathek.config.Konstanten;
-import mediathek.gui.dialog.StandardCloseDialog;
-import mediathek.tool.GuiFunktionen;
+import mediathog.config.Konstanten;
+import mediathog.gui.dialog.StandardCloseDialog;
+import mediathog.tool.GuiFunktionen;
 
 import javax.swing.*;
 import java.awt.*;

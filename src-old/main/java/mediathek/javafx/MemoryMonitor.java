@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import com.jidesoft.utils.SystemInfo;
 import javafx.animation.Animation;

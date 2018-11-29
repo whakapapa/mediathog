@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import mSearch.tool.Functions;
 import mSearch.tool.Log;

@@ -17,7 +17,7 @@ import (
 
 //TODO old java below
 
-package mediathek;
+package mediathog;
 
 import com.jidesoft.utils.SystemInfo;
 import com.jidesoft.utils.ThreadCheckingRepaintManager;
@@ -27,7 +27,7 @@ import jiconfont.swing.IconFontSwing;
 import mSearch.Config;
 import mSearch.tool.Log;
 import mSearch.tool.SingleInstance;
-import mediathek.config.Daten;
+import mediathog.config.Daten;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

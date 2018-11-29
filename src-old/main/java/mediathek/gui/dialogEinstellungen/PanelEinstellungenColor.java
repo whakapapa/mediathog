@@ -1,10 +1,10 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
-import mediathek.config.Daten;
-import mediathek.config.MVColor;
-import mediathek.gui.PanelVorlage;
-import mediathek.tool.*;
+import mediathog.config.Daten;
+import mediathog.config.MVColor;
+import mediathog.gui.PanelVorlage;
+import mediathog.tool.*;
 
 import javax.swing.*;
 import java.awt.*;

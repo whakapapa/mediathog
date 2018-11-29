@@ -1,6 +1,6 @@
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
-import mediathek.config.Daten;
+import mediathog.config.Daten;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

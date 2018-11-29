@@ -1,4 +1,4 @@
-package mediathek.config;
+package mediathog.config;
 
 import mSearch.tool.Log;
 

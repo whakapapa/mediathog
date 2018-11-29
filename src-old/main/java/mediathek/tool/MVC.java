@@ -1,8 +1,8 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 import java.awt.Color;
-import mediathek.config.MVConfig;
+import mediathog.config.MVConfig;
 
 public class MVC {
 

@@ -1,11 +1,11 @@
 
-package mediathek.config;
+package mediathog.config;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.Config;
 import mSearch.tool.ApplicationConfiguration;
 import mSearch.tool.Log;
-import mediathek.tool.GuiFunktionenProgramme;
+import mediathog.tool.GuiFunktionenProgramme;
 
 import java.util.ArrayList;
 import java.util.HashMap;

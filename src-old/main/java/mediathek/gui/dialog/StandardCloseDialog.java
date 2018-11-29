@@ -1,9 +1,9 @@
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import com.jidesoft.dialog.ButtonPanel;
 import com.jidesoft.dialog.StandardDialog;
-import mediathek.gui.actions.DisposeDialogAction;
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.gui.actions.DisposeDialogAction;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

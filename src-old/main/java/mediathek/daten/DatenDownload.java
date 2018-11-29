@@ -1,16 +1,16 @@
 
-package mediathek.daten;
+package mediathog.daten;
 
 import mSearch.daten.DatenFilm;
 import mSearch.tool.*;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
-import mediathek.controller.MVUsedUrl;
-import mediathek.controller.starter.Start;
-import mediathek.gui.messages.StartEvent;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVFilmSize;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
+import mediathog.controller.MVUsedUrl;
+import mediathog.controller.starter.Start;
+import mediathog.gui.messages.StartEvent;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVFilmSize;
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.File;

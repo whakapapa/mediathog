@@ -1,5 +1,5 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
 public class MVMediaDBFileSize implements Comparable<MVMediaDBFileSize> {
 

@@ -1,13 +1,13 @@
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
 import javafx.application.Platform;
 import javafx.scene.control.Alert;
 import javafx.stage.DirectoryChooser;
 import javafx.stage.Modality;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.tool.Logfile;
-import mediathek.tool.MVFunctionSys;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.tool.Logfile;
+import mediathog.tool.MVFunctionSys;
 import org.apache.commons.compress.archivers.ArchiveEntry;
 import org.apache.commons.compress.archivers.ArchiveOutputStream;
 import org.apache.commons.compress.archivers.tar.TarArchiveOutputStream;

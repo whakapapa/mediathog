@@ -1,18 +1,18 @@
 
-package mediathek.gui;
+package mediathog.gui;
 
 import jiconfont.icons.FontAwesome;
 import jiconfont.swing.IconFontSwing;
 import mSearch.daten.DatenFilm;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenDownload;
-import mediathek.gui.actions.UrlHyperlinkAction;
-import mediathek.gui.dialog.DialogFilmBeschreibung;
-import mediathek.tool.MVFont;
-import mediathek.tool.table.MVDownloadsTable;
-import mediathek.tool.table.MVFilmTable;
+import mediathog.config.Daten;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenDownload;
+import mediathog.gui.actions.UrlHyperlinkAction;
+import mediathog.gui.dialog.DialogFilmBeschreibung;
+import mediathog.tool.MVFont;
+import mediathog.tool.table.MVDownloadsTable;
+import mediathog.tool.table.MVFilmTable;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

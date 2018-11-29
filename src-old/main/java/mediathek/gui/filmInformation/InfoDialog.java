@@ -1,15 +1,15 @@
-package mediathek.gui.filmInformation;
+package mediathog.gui.filmInformation;
 
 import com.jidesoft.swing.MultilineLabel;
 import mSearch.daten.DatenFilm;
 import mSearch.filmeSuchen.ListenerFilmeLaden;
 import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
 import mSearch.tool.ApplicationConfiguration;
-import mediathek.config.Daten;
-import mediathek.gui.HyperlinkButton;
-import mediathek.gui.actions.UrlHyperlinkAction;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVSenderIconCache;
+import mediathog.config.Daten;
+import mediathog.gui.HyperlinkButton;
+import mediathog.gui.actions.UrlHyperlinkAction;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVSenderIconCache;
 import net.miginfocom.swing.MigLayout;
 import org.apache.commons.configuration2.Configuration;
 import org.apache.commons.configuration2.sync.LockMode;

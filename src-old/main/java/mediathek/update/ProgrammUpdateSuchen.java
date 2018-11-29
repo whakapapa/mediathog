@@ -1,12 +1,12 @@
 
-package mediathek.update;
+package mediathog.update;
 
 import mSearch.tool.Log;
 import mSearch.tool.MVHttpClient;
 import mSearch.tool.Version;
-import mediathek.config.Daten;
-import mediathek.config.Konstanten;
-import mediathek.config.MVConfig;
+import mediathog.config.Daten;
+import mediathog.config.Konstanten;
+import mediathog.config.MVConfig;
 import okhttp3.Request;
 import okhttp3.Response;
 import okhttp3.ResponseBody;

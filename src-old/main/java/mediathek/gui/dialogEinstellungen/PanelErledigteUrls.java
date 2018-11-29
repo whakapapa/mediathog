@@ -1,18 +1,18 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
 import mSearch.daten.DatenFilm;
 import mSearch.tool.Listener;
-import mediathek.config.Daten;
-import mediathek.controller.MVUsedUrl;
-import mediathek.daten.DatenDownload;
-import mediathek.gui.PanelVorlage;
-import mediathek.gui.dialog.DialogAddDownload;
-import mediathek.gui.dialog.DialogZiel;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVMessageDialog;
-import mediathek.tool.MVRun;
-import mediathek.tool.TModel;
+import mediathog.config.Daten;
+import mediathog.controller.MVUsedUrl;
+import mediathog.daten.DatenDownload;
+import mediathog.gui.PanelVorlage;
+import mediathog.gui.dialog.DialogAddDownload;
+import mediathog.gui.dialog.DialogZiel;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVMessageDialog;
+import mediathog.tool.MVRun;
+import mediathog.tool.TModel;
 
 import javax.swing.*;
 import java.awt.*;

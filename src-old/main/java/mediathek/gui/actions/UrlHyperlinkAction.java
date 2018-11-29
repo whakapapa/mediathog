@@ -1,11 +1,11 @@
 
-package mediathek.gui.actions;
+package mediathog.gui.actions;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.MVConfig;
-import mediathek.gui.dialog.DialogProgrammOrdnerOeffnen;
+import mediathog.config.MVConfig;
+import mediathog.gui.dialog.DialogProgrammOrdnerOeffnen;
 
 import javax.swing.*;
 import java.awt.*;

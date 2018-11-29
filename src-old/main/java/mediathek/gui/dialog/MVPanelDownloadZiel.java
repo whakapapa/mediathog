@@ -1,15 +1,15 @@
 
-package mediathek.gui.dialog;
+package mediathog.gui.dialog;
 
 import com.jidesoft.utils.SystemInfo;
 import mSearch.tool.FilenameUtils;
 import mSearch.tool.Log;
-import mediathek.config.Icons;
-import mediathek.config.MVColor;
-import mediathek.config.MVConfig;
-import mediathek.daten.DatenDownload;
-import mediathek.tool.GuiFunktionen;
-import mediathek.tool.MVMessageDialog;
+import mediathog.config.Icons;
+import mediathog.config.MVColor;
+import mediathog.config.MVConfig;
+import mediathog.daten.DatenDownload;
+import mediathog.tool.GuiFunktionen;
+import mediathog.tool.MVMessageDialog;
 
 import javax.swing.*;
 import javax.swing.event.DocumentEvent;

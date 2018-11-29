@@ -1,7 +1,7 @@
 
-package mediathek.tool;
+package mediathog.tool;
 
-import mediathek.daten.DatenMediaDB;
+import mediathog.daten.DatenMediaDB;
 
 @SuppressWarnings("serial")
 public class TModelMediaDB extends TModel {

@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.scene.control.Label;

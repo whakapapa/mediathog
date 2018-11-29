@@ -1,8 +1,8 @@
-package mediathek.javafx.filmlist;
+package mediathog.javafx.filmlist;
 
 import mSearch.daten.tList;
-import mediathek.config.Daten;
-import mediathek.javafx.tool.ComputedLabel;
+import mediathog.config.Daten;
+import mediathog.javafx.tool.ComputedLabel;
 
 /**
 * Label which will compute the age of the filmlist when updated.

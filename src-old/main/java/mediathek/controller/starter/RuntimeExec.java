@@ -1,10 +1,10 @@
 
-package mediathek.controller.starter;
+package mediathog.controller.starter;
 
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
 import mSearch.tool.SysMsg;
-import mediathek.tool.MVFilmSize;
+import mediathog.tool.MVFilmSize;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

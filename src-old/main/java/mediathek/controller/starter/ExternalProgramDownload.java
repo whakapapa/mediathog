@@ -1,17 +1,17 @@
 
-package mediathek.controller.starter;
+package mediathog.controller.starter;
 
 import mSearch.tool.Listener;
 import mSearch.tool.Log;
-import mediathek.config.Daten;
-import mediathek.controller.starter.DirectHttpDownload.HttpDownloadState;
-import mediathek.daten.DatenDownload;
-import mediathek.gui.dialog.DialogContinueDownload;
-import mediathek.gui.dialog.MeldungDownloadfehler;
-import mediathek.gui.messages.DownloadFinishedEvent;
-import mediathek.gui.messages.DownloadStartEvent;
-import mediathek.tool.MVInfoFile;
-import mediathek.tool.MVSubtitle;
+import mediathog.config.Daten;
+import mediathog.controller.starter.DirectHttpDownload.HttpDownloadState;
+import mediathog.daten.DatenDownload;
+import mediathog.gui.dialog.DialogContinueDownload;
+import mediathog.gui.dialog.MeldungDownloadfehler;
+import mediathog.gui.messages.DownloadFinishedEvent;
+import mediathog.gui.messages.DownloadStartEvent;
+import mediathog.tool.MVInfoFile;
+import mediathog.tool.MVSubtitle;
 
 import javax.swing.*;
 import java.io.File;

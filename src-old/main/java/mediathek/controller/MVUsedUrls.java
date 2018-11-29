@@ -1,5 +1,5 @@
 
-package mediathek.controller;
+package mediathog.controller;
 
 import mSearch.daten.DatenFilm;
 import mSearch.daten.tList;

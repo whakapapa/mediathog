@@ -1,4 +1,4 @@
-package mediathek.javafx;
+package mediathog.javafx;
 
 import javafx.application.Platform;
 import javafx.beans.property.IntegerProperty;
@@ -14,8 +14,8 @@ import javafx.scene.layout.Region;
 import mSearch.Config;
 import mSearch.filmeSuchen.ListenerFilmeLaden;
 import mSearch.filmeSuchen.ListenerFilmeLadenEvent;
-import mediathek.config.Daten;
-import mediathek.javafx.filmlist.FilmListInfoPane;
+import mediathog.config.Daten;
+import mediathog.javafx.filmlist.FilmListInfoPane;
 import org.controlsfx.control.StatusBar;
 
 public class StatusBarController {

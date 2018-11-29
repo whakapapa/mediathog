@@ -1,7 +1,7 @@
 
-package mediathek.gui.dialogEinstellungen;
+package mediathog.gui.dialogEinstellungen;
 
-import mediathek.tool.EscapeKeyHandler;
+import mediathog.tool.EscapeKeyHandler;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;

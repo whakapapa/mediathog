@@ -1,12 +1,12 @@
 
-package mediathek.res;
+package mediathog.res;
 
 import java.awt.Image;
 import java.io.File;
 import javax.swing.ImageIcon;
 import mSearch.tool.Log;
-import mediathek.config.MVConfig;
-import mediathek.tool.GuiFunktionen;
+import mediathog.config.MVConfig;
+import mediathog.tool.GuiFunktionen;
 
 public class GetIcon {
 
